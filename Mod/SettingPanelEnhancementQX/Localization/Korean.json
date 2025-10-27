@@ -1,0 +1,13 @@
+{
+    "InfoDisplayEnhancementQX.ModSettingButton": "[Mod]정보 표시 강화",
+    "InfoDisplayEnhancementQX.Option_Off": "닫기",
+    "InfoDisplayEnhancementQX.Option_On": "열기",
+    "Options_InfoDisplayEnhancementQX.DisplayHealthValue": "체력 값 표시",
+    "Options_InfoDisplayEnhancementQX.DisplayCharacterName": "캐릭터 이름 표시",
+    "Options_InfoDisplayEnhancementQX.DecimalPlacesOfHealthValue": "체력 값의 소수점 자릿수",
+    "InfoDisplayEnhancementQX.Option_AllCharacter": "모든 캐릭터",
+    "InfoDisplayEnhancementQX.Option_OnlyPlayer": "플레이어만",
+    "InfoDisplayEnhancementQX.Option_OnlyEnemy": "적만",
+    "Options_InfoDisplayEnhancementQX.DisplayKillCountTaskTarget": "킬 카운트 임무 목표 표시<sub>실험적</sub>",
+    "InfoDisplayEnhancementQX.Text_TaskTarget": "임무 목표: "
+}

@@ -1,0 +1,13 @@
+{
+  "InfoDisplayEnhancementQX.ModSettingButton": "[Mod]情報表示拡張",
+  "InfoDisplayEnhancementQX.Option_Off": "オフ",
+  "InfoDisplayEnhancementQX.Option_On": "オン",
+  "Options_InfoDisplayEnhancementQX.DisplayHealthValue": "体力値を表示",
+  "Options_InfoDisplayEnhancementQX.DisplayCharacterName": "キャラクター名を表示",
+  "Options_InfoDisplayEnhancementQX.DecimalPlacesOfHealthValue": "体力値の小数点以下桁数",
+  "InfoDisplayEnhancementQX.Option_AllCharacter": "全てのキャラクター",
+  "InfoDisplayEnhancementQX.Option_OnlyPlayer": "プレイヤーのみ",
+  "InfoDisplayEnhancementQX.Option_OnlyEnemy": "敵のみ",
+  "Options_InfoDisplayEnhancementQX.DisplayKillCountTaskTarget": "キルカウント任務目標を表示<sub>実験的</sub>",
+  "InfoDisplayEnhancementQX.Text_TaskTarget": "任務目標："
+}
