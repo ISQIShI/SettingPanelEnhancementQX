@@ -150,16 +150,18 @@ namespace SettingPanelEnhancementQX.Utils
             {
                 textLocalizor.Key = tabButtonLabelKey;
             }
-            LogHelper.Instance.LogTest("成功创建设置选项卡按钮实例");
+            // LogHelper.Instance.LogTest("成功创建设置选项卡按钮实例");
 
             GameObject settingPanelObj = Instantiate(_settingPanelTemplate, panels.transform, false);
             settingPanelObj.SetActive(false);
             settingPanelObj.name = panelName;
-            LogHelper.Instance.LogTest("成功创建设置面板实例");
+            // LogHelper.Instance.LogTest("成功创建设置面板实例");
 
             // 关联选项卡按钮和面板
             tabButton = tabButtonObj.GetComponent<OptionsPanel_TabButton>();
             AccessTools.FieldRefAccess<OptionsPanel_TabButton, GameObject>(tabButton, "tab") = settingPanelObj;
+
+            LogHelper.Instance.LogTest($"成功创建设置选项卡按钮和面板实例 {tabButtonLabelKey.ToPlainText()}");
 
             return settingPanelObj;
         }
@@ -180,7 +182,7 @@ namespace SettingPanelEnhancementQX.Utils
             dropdownObj.SetActive(true);
             dropdownObj.name = optionsProvider.Key;
 
-            LogHelper.Instance.LogTest("成功创建下拉框实例");
+            // LogHelper.Instance.LogTest("成功创建下拉框实例");
             return dropdownObj.GetComponent<OptionsUIEntry_Dropdown>();
         }
     }
