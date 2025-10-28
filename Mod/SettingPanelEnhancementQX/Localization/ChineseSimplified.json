@@ -1,13 +1,6 @@
 {
-  "InfoDisplayEnhancementQX.ModSettingButton": "[Mod]信息显示增强",
-  "InfoDisplayEnhancementQX.Option_Off": "关闭",
-  "InfoDisplayEnhancementQX.Option_On": "开启",
-  "Options_InfoDisplayEnhancementQX.DisplayHealthValue": "显示生命值",
-  "Options_InfoDisplayEnhancementQX.DisplayCharacterName": "显示角色名称",
-  "Options_InfoDisplayEnhancementQX.DecimalPlacesOfHealthValue": "生命值的小数位数",
-  "InfoDisplayEnhancementQX.Option_AllCharacter": "所有角色",
-  "InfoDisplayEnhancementQX.Option_OnlyPlayer": "仅玩家",
-  "InfoDisplayEnhancementQX.Option_OnlyEnemy": "仅敌人",
-  "Options_InfoDisplayEnhancementQX.DisplayKillCountTaskTarget": "显示击杀计数任务目标<sub>实验性</sub>",
-  "InfoDisplayEnhancementQX.Text_TaskTarget": "任务目标："
+  "SettingPanelEnhancementQX.ModSettingButton": "[Mod]设置面板增强",
+  "SettingPanelEnhancementQX.Option_Off": "关闭",
+  "SettingPanelEnhancementQX.Option_On": "开启",
+  "Options_SettingPanelEnhancementQX.SelectPageNumber": "页码"
 }

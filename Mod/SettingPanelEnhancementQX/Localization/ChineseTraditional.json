@@ -1,13 +1,6 @@
 {
-  "InfoDisplayEnhancementQX.ModSettingButton": "[Mod]資訊顯示增強",
-  "InfoDisplayEnhancementQX.Option_Off": "關閉",
-  "InfoDisplayEnhancementQX.Option_On": "開啟",
-  "Options_InfoDisplayEnhancementQX.DisplayHealthValue": "顯示生命值",
-  "Options_InfoDisplayEnhancementQX.DisplayCharacterName": "顯示角色名稱",
-  "Options_InfoDisplayEnhancementQX.DecimalPlacesOfHealthValue": "生命值的小數位數",
-  "InfoDisplayEnhancementQX.Option_AllCharacter": "所有角色",
-  "InfoDisplayEnhancementQX.Option_OnlyPlayer": "僅玩家",
-  "InfoDisplayEnhancementQX.Option_OnlyEnemy": "僅敵人",
-  "Options_InfoDisplayEnhancementQX.DisplayKillCountTaskTarget": "顯示擊殺計數任務目標<sub>實驗性</sub>",
-  "InfoDisplayEnhancementQX.Text_TaskTarget": "任務目標："
+  "SettingPanelEnhancementQX.ModSettingButton": "[Mod]設定面板增強",
+  "SettingPanelEnhancementQX.Option_Off": "關閉",
+  "SettingPanelEnhancementQX.Option_On": "開啟",
+  "Options_SettingPanelEnhancementQX.SelectPageNumber": "頁碼"
 }
